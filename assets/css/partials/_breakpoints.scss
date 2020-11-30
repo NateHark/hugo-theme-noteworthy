@@ -11,9 +11,9 @@
         overflow: auto;
         height: 100%;
         top: 0;
-        left: 36px;
+        left: 0;
         width: 240px;
-        padding: 0px;
+        padding-left: 36px;
     }
 
     .site-title {
@@ -50,7 +50,7 @@
 
     .content-container {
         max-width: 680px;
-        margin-left: 310px;
+        margin-left: 346px;
         padding: 0 1.5em 0 0;
         height: 100%;
         display: flex;
